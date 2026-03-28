@@ -23,5 +23,5 @@ It includes data cleaning, exploratory analysis in Python, and an interactive Po
 - Jupyter Notebook
 
  👤 Author
-Your Name — Chanchal Singhania
+Chanchal Singhania
 
